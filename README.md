@@ -1,3 +1,6 @@
+<meta name="apple-mobile-web-app-title" content="TR Candidature">
+<meta name="application-name" content="TR Candidature">
+<link rel="icon" href="data:;base64,iVBORw0KGgo=">
 
 
 <meta charset="UTF-8">
