@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="fr">
 <meta name="apple-mobile-web-app-title" content="TR Candidature">
 <meta name="application-name" content="TR Candidature">
