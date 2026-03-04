@@ -1,3 +1,12 @@
+ligne 1: <head>
+ligne 2: <meta charset="UTF-8">
+ligne 3: <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ligne 4: (ESPACE VIDE)
+ligne 5: **INSÉREZ LES 4 METAS ICI** 👈
+ligne 6: <title>Vision Stratégique France — Terence Richard</title>
+ligne 7: <link rel="preconnect"...
+
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
